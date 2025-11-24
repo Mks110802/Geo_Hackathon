@@ -48,7 +48,7 @@
 * It embodies the fusion of cutting-edge technologies, seamlessly blending Retrieval Adversarial Generation (RAG) Pipeline with an unwavering commitment to accuracy and autonomy
 
 * LocoChat isn’t just a chatbot, it’s an enigma. An AI sage that transcends the mundane, as it navigates the labyrinth of data with conjuration.
-![Screenshot 2024-07-22 193207](https://github.com/user-attachments/assets/ddb38ebf-f4d5-430a-ab15-07a621a94645)
+
 
 **The Challenge:**
 
@@ -147,6 +147,7 @@ $ pip install pyttsx3
 $streamlit run run.py
 ```
 ### A Quick Demo
+
 
 
 
