@@ -1,6 +1,6 @@
 # LocoChat
 
-> An Advanceed Chat-Bot leveraging Local Level Large Language Model
+> An Advanced Chat-Bot leveraging Local Level Large Language Model
 
 
 <img src="![Screenshot 2024-07-22 193207](https://github.com/user-attachments/assets/a79bec46-b4d1-4e08-a5c3-9151c11d6ab4)
@@ -26,7 +26,7 @@
 | Langchain | Framework Designed to Integrate Large Language Model |
 | Chromadb | For storing embeddings in vector database format  |
 | PyPDF | Python PDF library for operations and transformations |
-| pyttsx3 | Text to Speech Python library that works without internet |
+| pyttsx3 | Text-to-Speech Python library that works without internet |
 | SpeechRecognition | Library for performing speech recognition, with support for several engines and APIs, online and offline |
 
 
@@ -45,9 +45,9 @@
 ![image](![image](https://github.com/user-attachments/assets/c04cfcc9-7a13-4ef2-9bbb-717cfb17c83a)
 )
 
-* It embodies the fusion of cutting-edge technologies, seamlessly blending Retrieval Adversarial Generation (RAG) Pipeline with an unwavering commitment to accuracy and autonomy
+* It embodies the fusion of cutting-edge technologies, seamlessly blending the Retrieval-Augmented Generation (RAG) Pipeline with an unwavering commitment to accuracy and autonomy
 
-* LocoChat isn’t just a chatbot, it’s an enigma. An AI sage that transcends the mundane, as it navigates the labyrinth of data with conjuration.
+* LocoChat isn’t just a chatbot; it’s an enigma. An AI sage that transcends the mundane, as it navigates the labyrinth of data with conjuration.
 
 
 **The Challenge:**
@@ -147,6 +147,7 @@ $ pip install pyttsx3
 $streamlit run run.py
 ```
 ### A Quick Demo
+
 
 
 
