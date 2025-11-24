@@ -151,7 +151,7 @@ $streamlit run run.py
 
 
 
-https://github.com/user-attachments/assets/5c490401-940b-4512-b48a-82745183a1ed
+
 
 
 
